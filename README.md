@@ -18,6 +18,7 @@ Before running this project, make sure you have the following installed:
   - `python-dotenv`
   - `groq`
   - `googlesearch` (optional, if you want web search integration)
+  - `https://console.groq.com/` for api key login here
 
 ---
 

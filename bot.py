@@ -18,7 +18,7 @@ app.add_middleware(
 
 
 
-api_key = "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"
+api_key = "Your api key here"
 with open("prompt.txt", "r") as file:
     prompt = file.read()
 
