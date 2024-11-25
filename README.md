@@ -1,7 +1,7 @@
 # DermAssist API
 
 ## Introduction
-Welcome to the Dr. CareBot API! This project provides an AI-powered medical chatbot that can assist with health-related queries. Built with FastAPI, it integrates with an AI model to provide real-time responses to users. The bot is designed to deliver concise and accurate answers to health and medical questions, helping users find essential information quickly.
+Welcome to the DermAssist API! This project provides an AI-powered medical chatbot that can assist with health-related queries. Built with FastAPI, it integrates with an AI model to provide real-time responses to users. The bot is designed to deliver concise and accurate answers to health and medical questions, helping users find essential information quickly.
 
 ---
 
@@ -58,7 +58,7 @@ Description: Send a query to DermAssist and receive a response based on the AI's
 Example:
 URL: http://127.0.0.1:8000/flu precautions
 
-3. Chat with Dr. CareBot (POST Request)
+3. Chat with DermAssist (POST Request)
 Endpoint: POST /my/doc/chat
 Description: Allows users to send a message to Dr. CareBot and receive a response in a conversation-like format.
 Request Body:
